@@ -1,4 +1,4 @@
-ioi// Iterative CPP program to convert a Binary
+// Iterative CPP program to convert a Binary
 // Tree to its mirror
 #include<iostream.h>
 using namespace std;
