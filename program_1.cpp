@@ -1,6 +1,6 @@
 ioi// Iterative CPP program to convert a Binary
 // Tree to its mirror
-#include<bits/stdc++.h>
+#include<iostream.h>
 using namespace std;
  
 /* A binary tree node has data, pointer to
