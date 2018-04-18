@@ -77,6 +77,18 @@ void inOrder(struct Node* node)
     cout << node->data << " ";
     inOrder(node->right);
 }
+
+void preorder(stryuct node *node)
+{
+if(node==NULL)
+return;
+/*first print data of node*/
+cout<<node->data"\t";
+/*then recur on left phone*/
+preorder(node->left);
+/*now recur on right subtree*/
+preorder(node->right);
+}
  
  
 /* Driver program to test mirror() */
